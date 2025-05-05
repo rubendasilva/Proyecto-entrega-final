@@ -1,1 +1,3 @@
 # Proyecto-entrega-final
+Para esta entrega final como sugeria hacer un E-commerce, tome una prueba de mi curso de desarrollo web aca en Nueva Zelanda, que era sobre una agencia de viajes, ese curso no tenia javascript, asi que modifique para que usando javascript se pueda comprar, que haya un carrito, que se agregue uno de los "article" con json desde js con innerhtml, use la libreria sweetalert para los alert, etc. La pagina esta todo en ingles excepto por lo agregado para esta entrega (javascript, y el nuevo articulo que se agrega dinamicamente al html desde js)
+Espero cumpla con todos los requisitos y este todo correcto!
