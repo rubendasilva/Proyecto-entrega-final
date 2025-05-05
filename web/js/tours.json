@@ -1,0 +1,8 @@
+[
+  {
+    "nombre": "Nueva Zelanda - Aventura en la Isla Sur",
+    "descripcion": "<p class='p-card-tour'><b>Queenstown:</b> la capital de la aventura. Disfrutá de actividades extremas como bungee jumping, rafting, jet boat y senderismo por los Alpes del Sur. Es ideal para quienes buscan adrenalina en un entorno natural de película.<br><br><b>Milford Sound:</b> navegá entre imponentes fiordos, cascadas de cientos de metros y montañas escarpadas cubiertas de vegetación nativa. Este destino es considerado una de las maravillas naturales del mundo.<br><br><b>Glaciares Franz Josef y Fox:</b> recorré a pie los glaciares o accedé en helicóptero para una vista aérea de la región. Una experiencia única para conectarse con la naturaleza en su forma más pura.<br><br><b>Tekapo y Mount Cook:</b> contemplá cielos estrellados inigualables y el monte más alto del país. Las vistas panorámicas son ideales para los amantes de la fotografía.<br><br><b>Cultura Maorí:</b> aprendé sobre las costumbres, gastronomía y danzas ancestrales del pueblo originario de Nueva Zelanda. Visitá aldeas y centros culturales auténticos.<br><br>Esta aventura por la Isla Sur combina <b>naturaleza, aventura, cultura</b> y tranquilidad. Ideal para quienes desean explorar un paraíso remoto, seguro y lleno de contrastes.</p>",
+    "precio": 2899,
+    "imagen": "images/nz.png"
+  }
+]
